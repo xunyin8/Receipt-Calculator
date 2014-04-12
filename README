@@ -1,0 +1,8 @@
+This is a receipt calculator I made to minimize number of transaction between me
+and my room-mates. The calculator will calculate the net payment between each
+participant. Data of numerous and unequally shared receipts are provided as a
+text file to the program. There is a improved version in JavaScript which works
+directly on Google Docs, excel files, without the need of making a text data 
+file. Data files must be in specific format which are specified within the 
+program. I have provided an example data file, "info.txt" to demonstrate the 
+program.
